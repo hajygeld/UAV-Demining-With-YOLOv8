@@ -60,7 +60,9 @@ The web page in this repository supports running a model hosted on Roboflow by:
 
 ## Project Screenshots and Metrics
 
-![Model Name and Version Number](Metrics.png)
+![Model Metrics](Metrics.png)
+
+![Visualized Model Metrics](GraphMetrics.png)
 
 ## Technology Stack
 
