@@ -15,6 +15,8 @@ Equally as crucial as the first stage is the implementation of sensors, which wi
 
 ## Project Screenshots and Metrics
 
+Data augmentation schemes offered by Roboflow can be effective at simulating different conditions in which landmines may be found while ensuring that the model’s generalization is improved through the increased availability of high-quality data. For example, augmentation techniques involving spatial transformations such as horizontal and vertical flipping, noise and shear have been considered to be effective ways of applying transformations to object detection such that the dataset is diversified. These techniques were already successful in increasing the model’s performance when compared to initial training procedures without augmentations, with the mean average precision (mAP) increasing from 87.5% to 90.8%, precision from 94.6% to 95.6% and recall from 82.2% to 86.7%. 
+
 ![Model Metrics](Metrics.png)
 
 ![Visualized Model Metrics](GraphMetrics.png)
